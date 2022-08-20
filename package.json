@@ -1,0 +1,13 @@
+{
+	"name": "repro",
+	"version": "0.0.1",
+	"dependencies": {
+		"vite": "^3.0.9"
+	},
+	"scripts": {
+		"update": "yarn install",
+		"dev": "vite",
+		"build": "vite build"
+	},
+	"packageManager": "yarn@3.2.1"
+}
